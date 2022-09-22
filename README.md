@@ -11,7 +11,7 @@
 
 # CONTEXT OF THE FEATURES :
   
- # 📍 Registration :
+ # 📍 REGISTRATION :
     
    This feature enables the user to sign up and register for covid vaccination.The user will be asked to enter his details of Name, Phone number and Password.
     

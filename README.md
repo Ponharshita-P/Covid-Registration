@@ -1,4 +1,6 @@
-# Covid-Registration
+# Covid vaccine Reservation
+
+ A simple vaccine reservation page created with the aid of the OOPS principle in C++, particularly INHERITANCE.
 
 FEATURES :
   1. Registration for vaccination

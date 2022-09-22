@@ -17,11 +17,8 @@ CONTEXT OF THE FEATURES :
     It helps the user to verify if they had registred already. If the login is successful ie., if the password is right, then the user is aksed to enter the required details for vaccine reservation.
    
    ![image](https://user-images.githubusercontent.com/86182258/191802788-a83773f4-0039-4181-ab2a-c8f23e670b89.png)
-    
    ![image](https://user-images.githubusercontent.com/86182258/191804691-e4ac1f2b-7b30-4a09-992c-6b84b90c8425.png)
-    
    ![image](https://user-images.githubusercontent.com/86182258/191804839-2c1bf99f-5ba3-4a26-8ae9-c8d22d8fa57f.png)
-    
    ![image](https://user-images.githubusercontent.com/86182258/191805043-f2b35df8-50ae-4645-8d33-febe59037656.png)
     
   3.Covaxin slot availability :

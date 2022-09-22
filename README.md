@@ -9,9 +9,9 @@
   3. Covaxin slot availability
   4. Covidshield slot availabity
 
-# 🪶CONTEXT OF THE FEATURES :
+# CONTEXT OF THE FEATURES :
   
- # 📍 REGISTRATION :
+ # 📍 Registration :
     
    This feature enables the user to sign up and register for covid vaccination.The user will be asked to enter his details of Name, Phone number and Password.
     
